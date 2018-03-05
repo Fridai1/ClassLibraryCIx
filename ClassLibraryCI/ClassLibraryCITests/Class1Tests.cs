@@ -22,7 +22,7 @@ namespace ClassLibraryCI.Tests
         public void GetAdressTest()
         {
             Class1 s = new Class1();
-            Assert.AreEqual("elisagaardsvej 5", s.GetAdress());
+            Assert.AreEqual("elisagasdaardsvej 5", s.GetAdress());
         }
     }
 }
