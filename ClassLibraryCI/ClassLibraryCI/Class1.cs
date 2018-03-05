@@ -12,5 +12,10 @@ namespace ClassLibraryCI
         {
             return "Nikolai";
         }
+
+        public string GetAdress()
+        {
+            return "elisagaardsvej 5";
+        }
     }
 }
